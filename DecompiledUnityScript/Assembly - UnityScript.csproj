@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>a1abec65b5d2f3a41ab60ca16dd3084c</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>net20</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>11.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="UnityEngine">
+      <HintPath>d:\999\trt cocuk yarisci_Data\lib\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="Boo.Lang">
+      <HintPath>d:\999\trt cocuk yarisci_Data\lib\Boo.Lang.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly - CSharp - first pass">
+      <HintPath>d:\999\trt cocuk yarisci_Data\lib\Assembly - CSharp - first pass.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly - CSharp">
+      <HintPath>d:\999\trt cocuk yarisci_Data\lib\Assembly - CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityScript.Lang">
+      <HintPath>d:\999\trt cocuk yarisci_Data\lib\UnityScript.Lang.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
