@@ -45,20 +45,20 @@ public class soruEkrani : MonoBehaviour
 							if (_0024secim316 == "a")
 							{
 								_0024self_317.soruASecim = 1;
-								return base.Yield(2, new WaitForSeconds(2f));
+								return base.Yield(2, new WaitForSeconds(0.5f));
 							}
 							_0024self_317.soruBSecim = 1;
-							return base.Yield(3, new WaitForSeconds(2f));
+							return base.Yield(3, new WaitForSeconds(0.5f));
 						}
 						_0024self_317.yanlisCevapSes.Play();
 						_0024self_317.yanlisCevapSay++;
 						if (_0024secim316 == "a")
 						{
 							_0024self_317.soruASecim = 1;
-							return base.Yield(4, new WaitForSeconds(2f));
+							return base.Yield(4, new WaitForSeconds(0.5f));
 						}
 						_0024self_317.soruBSecim = 1;
-						return base.Yield(5, new WaitForSeconds(2f));
+						return base.Yield(5, new WaitForSeconds(0.5f));
 					case 2:
 						_0024self_317.soruASecim = 2;
 						goto IL_016e;
@@ -81,7 +81,7 @@ public class soruEkrani : MonoBehaviour
 					case 1:
 						break;
 						IL_016e:
-						return base.Yield(6, new WaitForSeconds(1.5f));
+						return base.Yield(6, new WaitForSeconds(0.5f));
 					}
 					bool result = default(bool);
 					return result;

@@ -128,7 +128,6 @@ public class ekranTuslari : MonoBehaviour
 		if (counter < 90f)
 		{
 			counter += 2f;
-			MonoBehaviour.print((object)counter);
 			araclar.transform.Rotate(0f, 2f, 0f);
 		}
 		else
@@ -145,7 +144,6 @@ public class ekranTuslari : MonoBehaviour
 		if (counter < 90f)
 		{
 			counter += 2f;
-			MonoBehaviour.print((object)counter);
 			araclar.transform.Rotate(0f, -2f, 0f);
 		}
 		else
@@ -229,16 +227,16 @@ public class ekranTuslari : MonoBehaviour
 		switch (aracSecim)
 		{
 		case 1:
-			panter.transform.Rotate(0f, 0f, 1f);
+			panter.transform.Rotate(0f, 0f, 1f * 60f * Time.deltaTime);
 			break;
 		case 2:
-			boga.transform.Rotate(0f, 0f, 1f);
+			boga.transform.Rotate(0f, 0f, 1f * 60f * Time.deltaTime);
 			break;
 		case 3:
-			orumcek.transform.Rotate(0f, 0f, 1f);
+			orumcek.transform.Rotate(0f, 0f, 1f * 60f * Time.deltaTime);
 			break;
 		case 4:
-			akrep.transform.Rotate(0f, 0f, 1f);
+			akrep.transform.Rotate(0f, 0f, 1f * 60f * Time.deltaTime);
 			break;
 		}
 	}

@@ -62,7 +62,7 @@ public class AICar_Script : MonoBehaviour
 		GetWaypoints();
 	}
 
-	public void FixedUpdate()
+	public void Update()
 	{
 		Rigidbody rigidbody = ((Component)this).rigidbody;
 		Vector3 velocity = ((Component)this).rigidbody.velocity;

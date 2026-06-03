@@ -28,7 +28,7 @@ public class kilit : MonoBehaviour
 				switch (base._state)
 				{
 				default:
-					return base.Yield(2, new WaitForSeconds(3f));
+					return base.Yield(2, new WaitForSeconds(1f));
 				case 2:
 					((MonoBehaviour)_0024self_291.ekranTus).StartCoroutine_Auto(_0024self_291.ekranTus.oyunBaslat());
 					_0024self_291.soruTusKilit = false;
