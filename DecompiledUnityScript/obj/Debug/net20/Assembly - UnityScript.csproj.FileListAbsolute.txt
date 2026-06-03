@@ -11,3 +11,4 @@ d:\999\DecompiledUnityScript\bin\Debug\net20\UnityScript.Lang.dll
 d:\999\DecompiledUnityScript\obj\Debug\net20\Assembly.4C366255.Up2Date
 d:\999\DecompiledUnityScript\obj\Debug\net20\a1abec65b5d2f3a41ab60ca16dd3084c.dll
 d:\999\DecompiledUnityScript\obj\Debug\net20\a1abec65b5d2f3a41ab60ca16dd3084c.pdb
+d:\999\DecompiledUnityScript\obj\Debug\net20\Assembly - UnityScript.sourcelink.json

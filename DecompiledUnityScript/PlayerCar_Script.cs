@@ -325,6 +325,29 @@ public class PlayerCar_Script : MonoBehaviour
 
 	public void Update()
 	{
+		kadranHiz obj = cevirme;
+		Vector3 velocity2 = ((Component)this).rigidbody.velocity;
+		obj.kadranAyarla(velocity2.magnitude, 60f);
+		if (Input.GetKeyDown("r"))
+		{
+			arabaReset();
+		}
+		if (Input.GetKeyUp("p"))
+		{
+			if (!oyunPauseDurum)
+			{
+				OyunDondur(0f);
+			}
+			else
+			{
+				OyunDevam();
+			}
+		}
+		sesAyarla();
+	}
+
+	public void FixedUpdate()
+	{
 		if (!yarisBasla)
 		{
 			((Component)this).rigidbody.velocity = new Vector3(0f, 0f, 0f);
@@ -337,13 +360,6 @@ public class PlayerCar_Script : MonoBehaviour
 		float[] gearRatio = GearRatio;
 		EngineRPM = num * gearRatio[RuntimeServices.NormalizeArrayIndex((System.Array)gearRatio, CurrentGear)];
 		ShiftGears();
-		kadranHiz obj = cevirme;
-		Vector3 velocity2 = ((Component)this).rigidbody.velocity;
-		obj.kadranAyarla(velocity2.magnitude, 60f);
-		if (Input.GetKeyDown("r"))
-		{
-			arabaReset();
-		}
 		if (yarisBasla)
 		{
 			if (turboAktif)
@@ -404,21 +420,9 @@ public class PlayerCar_Script : MonoBehaviour
 				OyunDondur(0.0001f);
 			}
 		}
-		if (Input.GetKeyUp("p"))
-		{
-			if (!oyunPauseDurum)
-			{
-				OyunDondur(0f);
-			}
-			else
-			{
-				OyunDevam();
-			}
-		}
 		donusAyarla();
 		FrontLeftWheel.steerAngle = 25f * Input.GetAxis("Horizontal");
 		FrontRightWheel.steerAngle = 25f * Input.GetAxis("Horizontal");
-		sesAyarla();
 	}
 
 	public void donusAyarla()
