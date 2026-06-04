@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 678
+  },
+  "m_Enabled": true,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 13
+  },
+  "m_Name": "",
+  "parca": "deneme",
+  "araba": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

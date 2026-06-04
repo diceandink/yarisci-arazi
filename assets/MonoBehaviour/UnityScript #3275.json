@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 640
+  },
+  "m_Enabled": true,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 49
+  },
+  "m_Name": "",
+  "CorrespondingCollider": {
+    "m_FileID": 0,
+    "m_PathID": 890
+  },
+  "SlipPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 539
+  }
+}

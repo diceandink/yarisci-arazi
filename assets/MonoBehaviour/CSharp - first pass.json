@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 884
+  },
+  "m_Enabled": true,
+  "m_Script": {
+    "m_FileID": 3,
+    "m_PathID": 47
+  },
+  "m_Name": "",
+  "shader": {
+    "m_FileID": 1,
+    "m_PathID": 329
+  },
+  "blurAmount": 0.0,
+  "extraBlur": 0
+}

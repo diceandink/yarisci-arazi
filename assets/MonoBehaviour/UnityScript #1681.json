@@ -1,0 +1,1621 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 884
+  },
+  "m_Enabled": true,
+  "m_Script": {
+    "m_FileID": 3,
+    "m_PathID": 28
+  },
+  "m_Name": "",
+  "sonucIsim": {
+    "m_Name": "",
+    "m_Normal": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    },
+    "m_Hover": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_Active": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_Focused": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnNormal": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnHover": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnActive": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnFocused": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_Border": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Padding": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Margin": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Overflow": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Font": {
+      "m_FileID": 1,
+      "m_PathID": 380
+    },
+    "m_ImagePosition": 0,
+    "m_Alignment": 0,
+    "m_WordWrap": 0,
+    "m_TextClipping": 1,
+    "m_ContentOffset": {
+      "x": 50.0,
+      "y": 15.0
+    },
+    "m_ClipOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "m_FixedWidth": 0.0,
+    "m_FixedHeight": 0.0,
+    "m_StretchWidth": 1,
+    "m_StretchHeight": 0
+  },
+  "sonucSure": {
+    "m_Name": "",
+    "m_Normal": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    },
+    "m_Hover": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_Active": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_Focused": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnNormal": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnHover": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnActive": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnFocused": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_Border": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Padding": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Margin": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Overflow": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Font": {
+      "m_FileID": 1,
+      "m_PathID": 380
+    },
+    "m_ImagePosition": 0,
+    "m_Alignment": 4,
+    "m_WordWrap": 0,
+    "m_TextClipping": 1,
+    "m_ContentOffset": {
+      "x": 0.0,
+      "y": 20.0
+    },
+    "m_ClipOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "m_FixedWidth": 0.0,
+    "m_FixedHeight": 0.0,
+    "m_StretchWidth": 1,
+    "m_StretchHeight": 0
+  },
+  "derece": {
+    "m_Name": "",
+    "m_Normal": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 1.0,
+        "g": 0.9362479,
+        "b": 0.44615382,
+        "a": 1.0
+      }
+    },
+    "m_Hover": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_Active": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_Focused": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnNormal": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnHover": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnActive": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnFocused": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_Border": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Padding": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Margin": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Overflow": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Font": {
+      "m_FileID": 1,
+      "m_PathID": 380
+    },
+    "m_ImagePosition": 0,
+    "m_Alignment": 4,
+    "m_WordWrap": 0,
+    "m_TextClipping": 1,
+    "m_ContentOffset": {
+      "x": 0.0,
+      "y": 20.0
+    },
+    "m_ClipOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "m_FixedWidth": 0.0,
+    "m_FixedHeight": 0.0,
+    "m_StretchWidth": 1,
+    "m_StretchHeight": 0
+  },
+  "odulSure": {
+    "m_Name": "",
+    "m_Normal": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    },
+    "m_Hover": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_Active": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_Focused": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnNormal": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnHover": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnActive": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnFocused": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_Border": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Padding": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Margin": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Overflow": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Font": {
+      "m_FileID": 1,
+      "m_PathID": 380
+    },
+    "m_ImagePosition": 0,
+    "m_Alignment": 4,
+    "m_WordWrap": 0,
+    "m_TextClipping": 1,
+    "m_ContentOffset": {
+      "x": 120.0,
+      "y": 0.0
+    },
+    "m_ClipOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "m_FixedWidth": 0.0,
+    "m_FixedHeight": 0.0,
+    "m_StretchWidth": 1,
+    "m_StretchHeight": 0
+  },
+  "cezaSure": {
+    "m_Name": "",
+    "m_Normal": {
+      "m_Background": {
+        "m_FileID": 1,
+        "m_PathID": 53
+      },
+      "m_TextColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    },
+    "m_Hover": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_Active": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_Focused": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnNormal": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnHover": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnActive": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnFocused": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_Border": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Padding": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Margin": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Overflow": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Font": {
+      "m_FileID": 1,
+      "m_PathID": 380
+    },
+    "m_ImagePosition": 0,
+    "m_Alignment": 4,
+    "m_WordWrap": 0,
+    "m_TextClipping": 1,
+    "m_ContentOffset": {
+      "x": 120.0,
+      "y": 0.0
+    },
+    "m_ClipOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "m_FixedWidth": 0.0,
+    "m_FixedHeight": 0.0,
+    "m_StretchWidth": 1,
+    "m_StretchHeight": 0
+  },
+  "kalip": {
+    "m_Name": "",
+    "m_Normal": {
+      "m_Background": {
+        "m_FileID": 1,
+        "m_PathID": 34
+      },
+      "m_TextColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    },
+    "m_Hover": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_Active": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_Focused": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnNormal": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnHover": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnActive": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnFocused": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_Border": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Padding": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Margin": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Overflow": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Font": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_ImagePosition": 0,
+    "m_Alignment": 0,
+    "m_WordWrap": 0,
+    "m_TextClipping": 1,
+    "m_ContentOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "m_ClipOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "m_FixedWidth": 0.0,
+    "m_FixedHeight": 0.0,
+    "m_StretchWidth": 1,
+    "m_StretchHeight": 0
+  },
+  "siralama": {
+    "m_Name": "",
+    "m_Normal": {
+      "m_Background": {
+        "m_FileID": 1,
+        "m_PathID": 188
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_Hover": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_Active": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_Focused": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnNormal": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnHover": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnActive": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnFocused": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_Border": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Padding": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Margin": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Overflow": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Font": {
+      "m_FileID": 1,
+      "m_PathID": 381
+    },
+    "m_ImagePosition": 0,
+    "m_Alignment": 3,
+    "m_WordWrap": 0,
+    "m_TextClipping": 1,
+    "m_ContentOffset": {
+      "x": 35.0,
+      "y": 0.0
+    },
+    "m_ClipOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "m_FixedWidth": 0.0,
+    "m_FixedHeight": 0.0,
+    "m_StretchWidth": 1,
+    "m_StretchHeight": 0
+  },
+  "skorSirala": {
+    "m_Name": "",
+    "m_Normal": {
+      "m_Background": {
+        "m_FileID": 1,
+        "m_PathID": 47
+      },
+      "m_TextColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    },
+    "m_Hover": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_Active": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_Focused": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnNormal": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnHover": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnActive": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnFocused": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_Border": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Padding": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Margin": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Overflow": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Font": {
+      "m_FileID": 1,
+      "m_PathID": 381
+    },
+    "m_ImagePosition": 0,
+    "m_Alignment": 4,
+    "m_WordWrap": 0,
+    "m_TextClipping": 1,
+    "m_ContentOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "m_ClipOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "m_FixedWidth": 0.0,
+    "m_FixedHeight": 0.0,
+    "m_StretchWidth": 1,
+    "m_StretchHeight": 0
+  },
+  "sonucGoster": 0,
+  "siralaGoster": 0,
+  "sureToplami": "",
+  "sureToplamiSon": "",
+  "kumsaatiToplam": 0,
+  "yanlisSoruToplam": 0,
+  "sureAyarlandi": 0,
+  "soruSaniye": 0,
+  "sonOdul": 0,
+  "oyuncu": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "oyuncuK": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "kaydetM": {
+    "m_Name": "",
+    "m_Normal": {
+      "m_Background": {
+        "m_FileID": 1,
+        "m_PathID": 21
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_Hover": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_Active": {
+      "m_Background": {
+        "m_FileID": 1,
+        "m_PathID": 28
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_Focused": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnNormal": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnHover": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnActive": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnFocused": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_Border": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Padding": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Margin": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Overflow": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Font": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_ImagePosition": 0,
+    "m_Alignment": 0,
+    "m_WordWrap": 0,
+    "m_TextClipping": 1,
+    "m_ContentOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "m_ClipOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "m_FixedWidth": 0.0,
+    "m_FixedHeight": 0.0,
+    "m_StretchWidth": 1,
+    "m_StretchHeight": 0
+  },
+  "anamenuM": {
+    "m_Name": "",
+    "m_Normal": {
+      "m_Background": {
+        "m_FileID": 1,
+        "m_PathID": 7
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_Hover": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_Active": {
+      "m_Background": {
+        "m_FileID": 1,
+        "m_PathID": 194
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_Focused": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnNormal": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnHover": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnActive": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnFocused": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_Border": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Padding": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Margin": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Overflow": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Font": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_ImagePosition": 0,
+    "m_Alignment": 0,
+    "m_WordWrap": 0,
+    "m_TextClipping": 1,
+    "m_ContentOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "m_ClipOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "m_FixedWidth": 0.0,
+    "m_FixedHeight": 0.0,
+    "m_StretchWidth": 1,
+    "m_StretchHeight": 0
+  },
+  "uyariPanel": {
+    "m_Name": "",
+    "m_Normal": {
+      "m_Background": {
+        "m_FileID": 1,
+        "m_PathID": 82
+      },
+      "m_TextColor": {
+        "r": 0.8923077,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_Hover": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_Active": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_Focused": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnNormal": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnHover": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnActive": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_OnFocused": {
+      "m_Background": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_TextColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "m_Border": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Padding": {
+      "m_Left": 10,
+      "m_Right": 10,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Margin": {
+      "m_Left": 10,
+      "m_Right": 10,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Overflow": {
+      "m_Left": 0,
+      "m_Right": 0,
+      "m_Top": 0,
+      "m_Bottom": 0
+    },
+    "m_Font": {
+      "m_FileID": 1,
+      "m_PathID": 380
+    },
+    "m_ImagePosition": 0,
+    "m_Alignment": 4,
+    "m_WordWrap": 0,
+    "m_TextClipping": 1,
+    "m_ContentOffset": {
+      "x": 0.0,
+      "y": 20.0
+    },
+    "m_ClipOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "m_FixedWidth": 0.0,
+    "m_FixedHeight": 0.0,
+    "m_StretchWidth": 1,
+    "m_StretchHeight": 0
+  },
+  "oyunDurdur": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "hediyeSayisiAl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "oyunSonSure": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "oyunSonu": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "i": 0,
+  "veriGonder": 0,
+  "cevapSonuc": ""
+}

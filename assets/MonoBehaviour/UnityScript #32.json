@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 28
+  },
+  "m_Enabled": true,
+  "m_Script": {
+    "m_FileID": 21,
+    "m_PathID": 54
+  },
+  "m_Name": "",
+  "logoMovie": {
+    "m_FileID": 21,
+    "m_PathID": 2
+  },
+  "logoAudio": {
+    "m_FileID": 0,
+    "m_PathID": 34
+  }
+}
