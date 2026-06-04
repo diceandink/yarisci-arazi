@@ -85,6 +85,18 @@ public class Oyuncu : MonoBehaviour
 		calar4 = false;
 	}
 
+	public void Start()
+	{
+		string pathMenu = Application.dataPath + "/menu_bg.png";
+		if (System.IO.File.Exists(pathMenu))
+		{
+			byte[] bytesMenu = System.IO.File.ReadAllBytes(pathMenu);
+			Texture2D texMenu = new Texture2D(2, 2);
+			texMenu.LoadImage(bytesMenu);
+			menubg.normal.background = texMenu;
+		}
+	}
+
 	public void calarF(int num)
 	{
 		switch (num)

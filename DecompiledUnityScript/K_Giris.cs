@@ -107,6 +107,27 @@ public class K_Giris : MonoBehaviour
 		sifre = string.Empty;
 	}
 
+	public void Start()
+	{
+		string path = Application.dataPath + "/yeni_bg.png";
+		if (System.IO.File.Exists(path))
+		{
+			byte[] bytes = System.IO.File.ReadAllBytes(path);
+			Texture2D tex = new Texture2D(2, 2);
+			tex.LoadImage(bytes);
+			kullaniciGirBg.normal.background = tex;
+		}
+
+		string pathMenu = Application.dataPath + "/menu_bg.png";
+		if (System.IO.File.Exists(pathMenu))
+		{
+			byte[] bytesMenu = System.IO.File.ReadAllBytes(pathMenu);
+			Texture2D texMenu = new Texture2D(2, 2);
+			texMenu.LoadImage(bytesMenu);
+			menubg.normal.background = texMenu;
+		}
+	}
+
 	public IEnumerator girisYap(string username, string password)
 	{
 		Application.LoadLevel("OyunMenu");
