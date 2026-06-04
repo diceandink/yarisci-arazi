@@ -182,7 +182,8 @@ public class yarisSonuc : MonoBehaviour
 
 	public IEnumerator skorGonder(object skor, object kullanici)
 	{
-		return new skorGonder_002442(skor, kullanici, this).GetEnumerator();
+		cevapSonuc = "true";
+		yield return null;
 	}
 
 	public void Update()
