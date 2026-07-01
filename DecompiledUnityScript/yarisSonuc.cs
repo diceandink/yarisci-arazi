@@ -190,7 +190,7 @@ public class yarisSonuc : MonoBehaviour
 	{
 		if (!oyunSonu.oyunSonuSoru && sonucGoster && !sureAyarlandi)
 		{
-			oyunSonSure.sonSureAyarla();
+			oyunSonSure.sonSureAyarla(soruSaniye);
 			sureAyarlandi = true;
 		}
 		if (Input.GetKeyUp("k"))

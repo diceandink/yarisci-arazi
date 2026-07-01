@@ -6,3 +6,4 @@ C:\Users\user\Desktop\yarisci-arazi-master\build\Assembly - UnityScript.dll
 C:\Users\user\Desktop\yarisci-arazi-master\build\Assembly - UnityScript.pdb
 C:\Users\user\Desktop\yarisci-arazi-master\DecompiledUnityScript\obj\Release\net20\Assembly - UnityScript.dll
 C:\Users\user\Desktop\yarisci-arazi-master\DecompiledUnityScript\obj\Release\net20\Assembly - UnityScript.pdb
+C:\Users\user\Desktop\yarisci-arazi-master\DecompiledUnityScript\obj\Release\net20\Assembly - UnityScript.sourcelink.json

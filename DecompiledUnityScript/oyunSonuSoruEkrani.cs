@@ -43,7 +43,6 @@ public class oyunSonuSoruEkrani : MonoBehaviour
 						{
 							_0024self_311.dogruCevapSay++;
 							PuanToplama.hediyeSayisi += 2;
-							_0024self_311.yarisSonu.soruSaniye = _0024self_311.yarisSonu.soruSaniye + 2;
 							if (_0024secim310 == "a")
 							{
 								_0024self_311.soruASecim = 1;
@@ -54,6 +53,7 @@ public class oyunSonuSoruEkrani : MonoBehaviour
 							return base.Yield(3, new WaitForSeconds(0.0002f));
 						}
 						_0024self_311.yanlisCevapSay++;
+						_0024self_311.yarisSonu.soruSaniye = _0024self_311.yarisSonu.soruSaniye + 2;
 						if (_0024secim310 == "a")
 						{
 							_0024self_311.soruASecim = 1;
@@ -244,7 +244,7 @@ public class oyunSonuSoruEkrani : MonoBehaviour
 				tusKilidi = true;
 				soruAc = false;
 				oyunSonuSoru = false;
-				oyunSonSure.sonSureAyarla();
+			oyunSonSure.sonSureAyarla(0);
 			}
 		}
 	}

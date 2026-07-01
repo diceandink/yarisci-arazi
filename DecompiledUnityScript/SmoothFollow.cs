@@ -39,7 +39,7 @@ public class SmoothFollow : MonoBehaviour
 			float num = target.position.y + height;
 			float y2 = ((Component)this).transform.eulerAngles.y;
 			float y3 = ((Component)this).transform.position.y;
-			y2 = ((!(!son)) ? Mathf.LerpAngle(y2 + 0.5f, y, rotationDamping * Time.deltaTime) : Mathf.LerpAngle(y2, y, rotationDamping * Time.deltaTime));
+			y2 = ((!(!son)) ? Mathf.LerpAngle(y2 + 30f * Time.deltaTime, y, rotationDamping * Time.deltaTime) : Mathf.LerpAngle(y2, y, rotationDamping * Time.deltaTime));
 			y3 = ((!(!son)) ? Mathf.Lerp(y3, num, heightDamping * Time.deltaTime) : Mathf.Lerp(y3, num, heightDamping * Time.deltaTime));
 			Quaternion val = Quaternion.Euler(0f, y2, 0f);
 			((Component)this).transform.position = target.position;

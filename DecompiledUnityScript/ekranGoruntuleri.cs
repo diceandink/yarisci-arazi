@@ -415,14 +415,14 @@ public class ekranGoruntuleri : MonoBehaviour
 		return new oyunBaslat_002437(this).GetEnumerator();
 	}
 
-	public void sonSureAyarla()
+	public void sonSureAyarla(int cezaSaniye)
 	{
 		checked
 		{
 			int num = (int)(Time.timeSinceLevelLoad - baslangicSure);
 			float num2 = Time.timeSinceLevelLoad - baslangicSure;
-			int intSure = num - PuanToplama.hediyeSayisi;
-			float floatSure = num2 - (float)PuanToplama.hediyeSayisi;
+			int intSure = num - PuanToplama.hediyeSayisi + cezaSaniye;
+			float floatSure = num2 - (float)PuanToplama.hediyeSayisi + (float)cezaSaniye;
 			oyunSonuSure2 = sureStringAl(num, num2);
 			oyunSonuSure2Hediyeli = sureStringAl(intSure, floatSure);
 		}

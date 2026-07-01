@@ -2654,9 +2654,149 @@ Oyuncu:OnGUI()
  
 (Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
 
-  Total Object count 749 (Before unload 763)
-            Total Object count 2699 (Before unload 2000)
-                14,2
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+  Total Object count 782 (Before unload 763)
+            Total Object count 2700 (Before unload 2014)
+                43,1
 UnityEngine.Debug:Log(Object)
 UnityEngine.MonoBehaviour:print(Object)
 ekranGoruntuleri:sureyiAl()
@@ -2664,11 +2804,200 @@ ekranGoruntuleri:OnGUI()
  
 (Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
 
-14,2
+43,1
 UnityEngine.Debug:Log(Object)
 UnityEngine.MonoBehaviour:print(Object)
 ekranGoruntuleri:sureyiAl()
 ekranGoruntuleri:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+56,8
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+ekranGoruntuleri:sureyiAl()
+ekranGoruntuleri:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+56,8
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+ekranGoruntuleri:sureyiAl()
+ekranGoruntuleri:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+burayada geldii
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+oyunSonuSoruEkrani:sorulariAlSonu(String[])
+System.Reflection.MonoMethod:InternalInvoke(Object, Object[])
+System.Reflection.MonoMethod:InternalInvoke(Object, Object[])
+System.Reflection.MonoMethod:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.MonoType:InvokeMember(String, BindingFlags, Binder, Object, Object[], ParameterModifier[], CultureInfo, String[])
+System.Type:InvokeMember(String, BindingFlags, Binder, Object, Object[])
+UnityEngine.SetupCoroutine:InvokeMember(Object, String, Object)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object)
+Sorular:sorulariSec(Int32)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object)
+oyunSonuSoruEkrani:soruKontrolSonu()
+yarisSonuc:kontrol()
+PlayerCar_Script:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+Karayolları Genel Müdürlüğü ne zaman kurulmuştur?
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+oyunSonuSoruEkrani:sorulariAlSonu(String[])
+System.Reflection.MonoMethod:InternalInvoke(Object, Object[])
+System.Reflection.MonoMethod:InternalInvoke(Object, Object[])
+System.Reflection.MonoMethod:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.MonoType:InvokeMember(String, BindingFlags, Binder, Object, Object[], ParameterModifier[], CultureInfo, String[])
+System.Type:InvokeMember(String, BindingFlags, Binder, Object, Object[])
+UnityEngine.SetupCoroutine:InvokeMember(Object, String, Object)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object)
+Sorular:sorulariSec(Int32)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object)
+oyunSonuSoruEkrani:soruKontrolSonu()
+yarisSonuc:kontrol()
+PlayerCar_Script:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+Aşağıdakilerden hangisi toplu taşıma aracı değildir?
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+oyunSonuSoruEkrani:sorulariAlSonu(String[])
+System.Reflection.MonoMethod:InternalInvoke(Object, Object[])
+System.Reflection.MonoMethod:InternalInvoke(Object, Object[])
+System.Reflection.MonoMethod:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.MonoType:InvokeMember(String, BindingFlags, Binder, Object, Object[], ParameterModifier[], CultureInfo, String[])
+System.Type:InvokeMember(String, BindingFlags, Binder, Object, Object[])
+UnityEngine.SetupCoroutine:InvokeMember(Object, String, Object)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object)
+Sorular:sorulariSec(Int32)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object)
+oyunSonuSoruEkrani:soruKontrolSonu()
+yarisSonuc:kontrol()
+PlayerCar_Script:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+Fatih Sultan Mehmet Köprüsü, dünyanın kaçıncı en uzun asma köprüsüdür?
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+oyunSonuSoruEkrani:sorulariAlSonu(String[])
+System.Reflection.MonoMethod:InternalInvoke(Object, Object[])
+System.Reflection.MonoMethod:InternalInvoke(Object, Object[])
+System.Reflection.MonoMethod:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.MonoType:InvokeMember(String, BindingFlags, Binder, Object, Object[], ParameterModifier[], CultureInfo, String[])
+System.Type:InvokeMember(String, BindingFlags, Binder, Object, Object[])
+UnityEngine.SetupCoroutine:InvokeMember(Object, String, Object)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object)
+Sorular:sorulariSec(Int32)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object)
+oyunSonuSoruEkrani:soruKontrolSonu()
+yarisSonuc:kontrol()
+PlayerCar_Script:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+a
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+_0024:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+oyunSonuSoruEkrani:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+a secti
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+_0024:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+oyunSonuSoruEkrani:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+burayadaGecti
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+_0024:MoveNext()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+a
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+_0024:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+oyunSonuSoruEkrani:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+a secti
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+_0024:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+oyunSonuSoruEkrani:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+burayadaGecti
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+_0024:MoveNext()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+a
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+_0024:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+oyunSonuSoruEkrani:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+a secti
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+_0024:MoveNext()
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+oyunSonuSoruEkrani:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+burayadaGecti
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+_0024:MoveNext()
  
 (Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
 
