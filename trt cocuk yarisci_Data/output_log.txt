@@ -1,0 +1,2675 @@
+Player: init engine
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumd.dll 32.0.15.9579]
+    Renderer: NVIDIA GeForce RTX 4060
+    Vendor:   NVIDIA
+    VRAM:     -1 MB
+D3D: VRAM amount suspiciously low (less than 32MB for PS2.0 card)
+desktop: 1920x1080 180Hz; virtual: 3840x1080 at 0,0
+       Total Object count 168 (Before unload 103)
+    Total Object count 206 (Before unload 206)
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Oyuncu:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+  Total Object count 749 (Before unload 763)
+            Total Object count 2699 (Before unload 2000)
+                14,2
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+ekranGoruntuleri:sureyiAl()
+ekranGoruntuleri:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+14,2
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+ekranGoruntuleri:sureyiAl()
+ekranGoruntuleri:OnGUI()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+Cleanup player

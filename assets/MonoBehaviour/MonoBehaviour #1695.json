@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 906
+  },
+  "m_Enabled": true,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 12000
+  },
+  "m_Name": "",
+  "m_TerrainData": {
+    "m_FileID": 1,
+    "m_PathID": 1100
+  },
+  "m_TreeDistance": 515.7895,
+  "m_TreeBillboardDistance": 131.0,
+  "m_TreeCrossFadeLength": 5.0,
+  "m_TreeMaximumFullLODCount": 50,
+  "m_DetailObjectDistance": 110.526314,
+  "m_HeightmapPixelError": 5.0,
+  "m_SplatMapDistance": 1000.0,
+  "m_HeightmapMaximumLOD": 0,
+  "m_RenderMode": 2,
+  "m_CastShadows": 1,
+  "m_UseLightmap": 0,
+  "m_DrawTreesAndFoliage": 1
+}

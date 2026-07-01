@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\yarisci-arazi-master\DecompiledUnityScript\obj\Release\net20\Assembly - UnityScript.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\yarisci-arazi-master\DecompiledUnityScript\obj\Release\net20\Assembly - UnityScript.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\yarisci-arazi-master\DecompiledUnityScript\obj\Release\net20\Assembly - UnityScript.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\yarisci-arazi-master\DecompiledUnityScript\obj\Release\net20\Assembly.4C366255.Up2Date
+C:\Users\user\Desktop\yarisci-arazi-master\build\Assembly - UnityScript.dll
+C:\Users\user\Desktop\yarisci-arazi-master\build\Assembly - UnityScript.pdb
+C:\Users\user\Desktop\yarisci-arazi-master\DecompiledUnityScript\obj\Release\net20\Assembly - UnityScript.dll
+C:\Users\user\Desktop\yarisci-arazi-master\DecompiledUnityScript\obj\Release\net20\Assembly - UnityScript.pdb

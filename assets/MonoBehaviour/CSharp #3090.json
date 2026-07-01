@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 549
+  },
+  "m_Enabled": false,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 19
+  },
+  "m_Name": "",
+  "target": {
+    "m_FileID": 0,
+    "m_PathID": 549
+  },
+  "castingDistance": 10.0,
+  "lightness": 0.3,
+  "textureSize": 512,
+  "fadeoutTexture": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

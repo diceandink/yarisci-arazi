@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 549
+  },
+  "m_Enabled": true,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 59
+  },
+  "m_Name": "",
+  "kontak": {
+    "m_FileID": 0,
+    "m_PathID": 897
+  },
+  "motor": {
+    "m_FileID": 0,
+    "m_PathID": 903
+  },
+  "muzik": {
+    "m_FileID": 0,
+    "m_PathID": 906
+  }
+}

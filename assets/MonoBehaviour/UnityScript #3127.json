@@ -1,0 +1,76 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 630
+  },
+  "m_Enabled": true,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 44
+  },
+  "m_Name": "",
+  "eskiHiz": 0.0,
+  "yeniHiz": 0.0,
+  "FrontLeftWheel": {
+    "m_FileID": 0,
+    "m_PathID": 883
+  },
+  "FrontRightWheel": {
+    "m_FileID": 0,
+    "m_PathID": 884
+  },
+  "GearRatio": [
+    3.0,
+    2.7,
+    2.2,
+    2.0,
+    1.8,
+    1.7
+  ],
+  "CurrentGear": 0,
+  "EngineTorque": 900.0,
+  "MaxEngineRPM": 3000.0,
+  "MinEngineRPM": 1000.0,
+  "arazikup": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "aracSes": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "cevirme": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "araba": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "resetYer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "sonucGoster": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "son": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "yarisS": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "yarisCikis": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "oyunSonuSoru": 0,
+  "yarisBasla": 0,
+  "oyunPauseDurum": 0,
+  "durdur": 0,
+  "durdurSayi": 1,
+  "arabaGitmesin": 1
+}

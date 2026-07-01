@@ -1,0 +1,66 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 884
+  },
+  "m_Enabled": true,
+  "m_Script": {
+    "m_FileID": 3,
+    "m_PathID": 51
+  },
+  "m_Name": "",
+  "arabaSec": {
+    "m_FileID": 1,
+    "m_PathID": 409
+  },
+  "arabaSec2": {
+    "m_FileID": 1,
+    "m_PathID": 489
+  },
+  "arabaSec3": {
+    "m_FileID": 1,
+    "m_PathID": 384
+  },
+  "arabaSec4": {
+    "m_FileID": 1,
+    "m_PathID": 408
+  },
+  "yeniaraba": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "soruGetir": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "soruGetirSonu": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "aracHasarAc": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "compCar1": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "compCar2": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "compCar3": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "ekranTus": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "yeniKilit": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "sureGeldi": 0,
+  "aracEklendi": 0
+}
